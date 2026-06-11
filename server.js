@@ -22,7 +22,7 @@ const swaggerOptions = {
         info: {
             title: 'User API',
             version: '1.0.0',
-            description: 'API for managing users',
+            description: 'API for managing users',                   
         },
         servers: [
             {
